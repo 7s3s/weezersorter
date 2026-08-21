@@ -1787,70 +1787,70 @@ dataSet[dataSetVersion].characterData = [
   },
       {
     name: "Say Yes",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Shine Again",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Don't Make It Weird",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "We Might as Well Be Strangers",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "C.E.O.",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Hoops",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Nowhere",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "The Show Must Go On",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Up In the Clouds",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "The LA Sound",
-    img: "weezer-gold-album-UTbXA5o",
+    img: "i47iyD6.png",
     opts: {
       album: ["gold"]
   }
