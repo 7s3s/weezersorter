@@ -1787,70 +1787,70 @@ dataSet[dataSetVersion].characterData = [
   },
       {
     name: "Say Yes",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Shine Again",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Don't Make It Weird",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "We Might as Well Be Strangers",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "C.E.O.",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Hoops",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Nowhere",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "The Show Must Go On",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "Up In the Clouds",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
   },
         {
     name: "The LA Sound",
-    img: "gold.png",
+    img: "weezer-gold-album-UTbXA5o",
     opts: {
       album: ["gold"]
   }
